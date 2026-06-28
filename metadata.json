@@ -1,0 +1,6 @@
+{
+  "name": "Chinese Drama Auto Translator",
+  "description": "Automatically transcribes Chinese dramas, translates dialogs into natural Burmese, and provides an interactive subtitle editor and video player, with SRT download and video burning support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
